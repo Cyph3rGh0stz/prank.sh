@@ -1,6 +1,6 @@
 # prank.sh
 
-This was designed as a prank bash script to deploy on a friends Linux computer.
+This was designed as a prank bash script to deploy on a friend's Linux computer.
 This file contains nothing malicious.
 The prank is accomplished by a series of echo and sleep commands
 The file is named automation.sh so that when downloaded it won't be immediately known as a prank script.
